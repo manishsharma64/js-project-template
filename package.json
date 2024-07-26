@@ -1,0 +1,17 @@
+{
+  "name": "js-project-template",
+  "version": "1.0.0",
+  "description": "This project provide vanilly js and html project template with Webpack built. Download and start building, or test library or POC etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.93.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
